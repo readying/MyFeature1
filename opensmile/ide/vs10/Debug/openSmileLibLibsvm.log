@@ -1,0 +1,17 @@
+﻿Build started 2015/6/24 10:45:59.
+     1>Project "E:\opensmile-2.0-rc1\opensmile\ide\vs10\openSmileLibLibsvm.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\openSmileLibLibsvm.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Lib:
+         All outputs are up-to-date.
+         openSmileLibLibsvm.vcxproj -> E:\opensmile-2.0-rc1\opensmile\ide\vs10\Debug\openSmileLibLibsvm.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\openSmileLibLibsvm.unsuccessfulbuild".
+         Touching "Debug\openSmileLibLibsvm.lastbuildstate".
+     1>Done Building Project "E:\opensmile-2.0-rc1\opensmile\ide\vs10\openSmileLibLibsvm.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.14

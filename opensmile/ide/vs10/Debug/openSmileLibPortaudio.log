@@ -1,0 +1,26 @@
+﻿Build started 2015/6/24 10:24:14.
+     1>Project "E:\opensmile-2.0-rc1\opensmile\ide\vs10\openSmileLibPortaudio.vcxproj" on node 2 (build target(s)).
+     1>C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets(1422,5): warning : The referenced project '..\..\..\thirdparty\portaudio\build\msvc\portaudio.vcxproj' does not exist.
+     1>InitializeBuildStatus:
+         Creating "Debug\openSmileLibPortaudio.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\thirdparty\portaudio\include /I..\..\src\include /I..\..\src\svm /ZI /nologo /W3 /WX- /Od /Oy- /D HAVE_PORTAUDIO /D HAVE_PORTAUDIO_V19 /D _USRDLL /D OPENSMILELIB_EXPORTS /D BUILDING_DLL /D _DEBUG /D __VISTA /D _WINDOWS /D __WINDOWS /D WIN32 /D _CRT_SECURE_NO_DEPRECATE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\src\portaudio\portaudioDuplex.cpp ..\..\src\portaudio\portaudioSink.cpp ..\..\src\portaudio\portaudioSource.cpp ..\..\src\portaudio\portaudioWavplayer.cpp
+         portaudioWavplayer.cpp
+         portaudioSource.cpp
+         portaudioSink.cpp
+         portaudioDuplex.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"Debug\openSmileLibPortaudio.lib" /NOLOGO Debug\portaudioDuplex.obj
+         Debug\portaudioSink.obj
+         Debug\portaudioSource.obj
+         Debug\portaudioWavplayer.obj
+         openSmileLibPortaudio.vcxproj -> E:\opensmile-2.0-rc1\opensmile\ide\vs10\Debug\openSmileLibPortaudio.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\openSmileLibPortaudio.unsuccessfulbuild".
+         Touching "Debug\openSmileLibPortaudio.lastbuildstate".
+     1>Done Building Project "E:\opensmile-2.0-rc1\opensmile\ide\vs10\openSmileLibPortaudio.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.59

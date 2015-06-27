@@ -1,0 +1,20 @@
+[ 26.06.2015 - 21:37:39 ]
+    (MSG) [2] in SMILExtract : openSMILE starting!
+[ 26.06.2015 - 21:37:39 ]
+    (MSG) [2] in SMILExtract : config file is: ..\..\..\msvcbuild\mfcc.conf
+[ 26.06.2015 - 21:37:39 ]
+    (MSG) [2] in cComponentManager : successfully registered 93 component types.
+[ 26.06.2015 - 21:37:39 ]
+    (MSG) [2] in configManager : reading config file '..\..\..\msvcbuild\mfcc.conf'
+==> LEVEL 'wave'  +++  Buffersize(frames) = 32001  +++  nReaders = 1
+==> LEVEL 'waveframe'  +++  Buffersize(frames) = 3  +++  nReaders = 1
+==> LEVEL 'window'  +++  Buffersize(frames) = 3  +++  nReaders = 1
+==> LEVEL 'melspec'  +++  Buffersize(frames) = 3  +++  nReaders = 1
+==> LEVEL 'mfcc'  +++  Buffersize(frames) = 3  +++  nReaders = 1
+[ 26.06.2015 - 21:37:39 ]
+    (MSG) [2] in cComponentManager : successfully finished createInstances
+                                 (6 component instances were finalised, 1 data memories were finalised)
+[ 26.06.2015 - 21:37:39 ]
+    (MSG) [2] in cComponentManager : starting single thread processing loop
+[ 26.06.2015 - 21:37:39 ]
+    (MSG) [2] in cComponentManager : Processing finished! System ran for 178 ticks.

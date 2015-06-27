@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>-I E:\opensmile-2.0-rc1\msvcbuild\opensmile.wav -C E:\opensmile-2.0-rc1\msvcbuild\MFCC12_0_D_A.conf -O E:\opensmile-2.0-rc1\msvcbuild\o.csv</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

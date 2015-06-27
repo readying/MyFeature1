@@ -1,0 +1,17 @@
+﻿Build started 2015/6/23 13:51:36.
+     1>Project "E:\opensmile-2.0-rc1\opensmile\ide\vs10\openSmileLibClassif.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\openSmileLibClassif.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Lib:
+         All outputs are up-to-date.
+         openSmileLibClassif.vcxproj -> E:\opensmile-2.0-rc1\opensmile\ide\vs10\Release\openSmileLibClassif.lib
+       FinalizeBuildStatus:
+         Deleting file "Release\openSmileLibClassif.unsuccessfulbuild".
+         Touching "Release\openSmileLibClassif.lastbuildstate".
+     1>Done Building Project "E:\opensmile-2.0-rc1\opensmile\ide\vs10\openSmileLibClassif.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.05

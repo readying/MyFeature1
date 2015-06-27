@@ -1,0 +1,22 @@
+﻿Build started 2015/6/26 21:27:07.
+     1>Project "E:\opensmile-2.0-rc1\opensmile\ide\vs10\openSmileLib.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\openSmileLib.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+     1>Project "E:\opensmile-2.0-rc1\opensmile\ide\vs10\openSmileLib.vcxproj" (1) is building "E:\opensmile-2.0-rc1\opensmile\ide\vs10\openSmileLibPortaudio.vcxproj" (4:3) on node 1 (GetResolvedLinkLibs target(s)).
+     4>C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets(1422,5): warning : The referenced project '..\..\..\thirdparty\portaudio\build\msvc\portaudio.vcxproj' does not exist.
+     4>Done Building Project "E:\opensmile-2.0-rc1\opensmile\ide\vs10\openSmileLibPortaudio.vcxproj" (GetResolvedLinkLibs target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(990,5): warning MSB8012: TargetPath(E:\opensmile-2.0-rc1\opensmile\ide\vs10\Debug\openSmileLib_Debug.dll) does not match the Linker's OutputFile property value (E:\opensmile-2.0-rc1\msvcbuild\openSmileLib_Debug.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     1>Link:
+         All outputs are up-to-date.
+         openSmileLib.vcxproj -> E:\opensmile-2.0-rc1\opensmile\ide\vs10\Debug\openSmileLib_Debug.dll
+       FinalizeBuildStatus:
+         Deleting file "Debug\openSmileLib.unsuccessfulbuild".
+         Touching "Debug\openSmileLib.lastbuildstate".
+     1>Done Building Project "E:\opensmile-2.0-rc1\opensmile\ide\vs10\openSmileLib.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.98
